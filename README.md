@@ -207,6 +207,7 @@ This arm can pinch fingers and knock things over. Keep the area clear, start wit
 
 | Part | Link | Notes |
 | --- | --- | --- |
+| Leap Motion controller | [Amazon](https://link.amazon/B0fY0Ug7N) | The hand tracker that drives the whole thing. I used the original Leap Motion, and it still works with Ultraleap's current tracking software. |
 | STS3215 servos (12V) | [Amazon](https://link.amazon/B039jQd3p) | The official LeRobot vendors are usually cheaper, but this listing got to me the next day instead of waiting a week or two. |
 | Bus servo driver board | [Amazon](https://link.amazon/B06JCpNYe) | Comes as a two-pack. I kept the spare in case I build a second arm. |
 
