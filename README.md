@@ -202,3 +202,20 @@ Set `MODE` at the top of the file to `"fk"` or `"nudge"`, and adjust `TIP_OFFSET
 ## Safety
 
 This arm can pinch fingers and knock things over. Keep the area clear, start with small movements, and keep a hand near the power switch the first few times you run anything new.
+
+## Parts I used
+
+| Part | Link | Notes |
+| --- | --- | --- |
+| STS3215 servos (12V) | [Amazon](https://link.amazon/B039jQd3p) | The official LeRobot vendors are usually cheaper, but this listing got to me the next day instead of waiting a week or two. |
+| Bus servo driver board | [Amazon](https://link.amazon/B06JCpNYe) | Comes as a two-pack. I kept the spare in case I build a second arm. |
+
+These are just the parts I used and can personally verify work. If you don't have a 3D printer, the official LeRobot vendors also sell complete SO-101 kits, including versions with the arm parts already printed. Check the LeRobot SO-101 docs for their recommended suppliers.
+
+**You'll also need a power supply.** The official docs recommend a 12V supply rated for at least 5A. I didn't list one because I used my own variable bench supply, set to 12V with a 5A current limit. Either works, but don't skip it: USB only carries data, not power for the servos.
+
+Some of these are affiliate links. If you buy through them I may earn a small commission, at no extra cost to you.
+
+## Support this project
+
+I build all of these projects on my own. If this helped you, you can support more of them here: [Buy Me a Coffee](https://buymeacoffee.com/jordainewisdom).
